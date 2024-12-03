@@ -102,9 +102,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### 📬 **Contact**
-- **Creator**: [Jyotsna Shrivastava]([https://github.com/your-profile](https://github.com/jyotsna030)
+- **Creator**: [Jyotsna Shrivastava]([https://github.com/jyotsna030])
 - **Email**: jyotsnas0306@gmail.com
-- **GitHub Repository**: [SachiSakhi]([https://github.com/your-username/SachiSakhi](https://github.com/jyotsna030/Sachi-Sakhi))
+- **GitHub Repository**: [SachiSakhi]([https://github.com/jyotsna030/Sachi-Sakhi])
 
 ---
 
