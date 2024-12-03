@@ -5,8 +5,13 @@ import './App.css'
 import { Button } from './components/ui/button'
 import Hero from './components/custom/Hero'
 import Header from './components/custom/Header'
+import { useEffect } from 'react'
 
 function App() {
+  useEffect(() => {
+    document.title = 'Sachi-Sakhi';
+  }, []);
+
   const [count, setCount] = useState(0)
 
   return (
